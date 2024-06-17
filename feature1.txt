@@ -1,3 +1,6 @@
 added new feature to dev repo
 
 added more changes in feature1 txt file
+
+
+added some wrong code
